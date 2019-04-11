@@ -1,0 +1,9 @@
+.vs
+bin
+obj
+dist
+TestResults
+*.user
+*.suo
+Debug
+Release
